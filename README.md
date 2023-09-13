@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Álvaro Marques 👋 👨‍💻 
-- 🌕 Junior Full-Stack
+- 🌕 learning react native
 - 👨‍🎓 Cursando Sistemas de informação no Instituto Federal da Bahia
 
 
