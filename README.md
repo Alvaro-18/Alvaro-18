@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Álvaro Marques 👋 👨‍💻 
-- 🌕 learning react native
+- 🌕 Front-end developer
 - 👨‍🎓 Cursando Sistemas de informação no Instituto Federal da Bahia
 
 
